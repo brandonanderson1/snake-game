@@ -24,7 +24,7 @@ A grid-based Snake game built in Java on an instructor-provided game engine base
 
 ## Project Structure
 
-- `GDV5` — game engine base (provided as part of a course), handling the game loop, rendering, and input; also used in my [Pong](../pong) project
+- `GDV5` — game engine base (provided as part of a course), handling the game loop, rendering, and input
 - `SnakeRunner` — main game loop, level logic, apple spawning, and start/game-over states
 - `Snake` — snake body, movement, direction handling, and collision/growth logic
 - `Apple` — apple position and rendering
